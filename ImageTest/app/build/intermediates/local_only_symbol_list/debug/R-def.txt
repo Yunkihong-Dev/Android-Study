@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable cat1
+drawable cat2
+drawable cat3
+drawable cat4
+drawable cat5
+drawable cat6
+drawable cover00
+drawable cover01
+drawable cover02
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+drawable menu01
+drawable menu02
+drawable menu03
+drawable menu04
+id imageView
+id logoBtn
+id textView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.ImageTest
